@@ -1,0 +1,7 @@
+@ oyon gak semuanya di tambah 8
+
+Klo prefix /24 - /32 gak ditambah 8
+
+Prefix /16 - /23 ditambah 8
+
+Prefix /8 - /15 ditambah 16
